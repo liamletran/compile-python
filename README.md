@@ -1,6 +1,5 @@
 [![Python application test with Github Actions](https://github.com/liamletran/compile-python/actions/workflows/main.yml/badge.svg)](https://github.com/liamletran/compile-python/actions/workflows/main.yml)
 
-
 # compile-python
 This is a repo for compling and installing Python from scratch.
 # Complie Python and Create VirtualEnv with It
